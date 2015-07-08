@@ -2,6 +2,8 @@
 #define CONFIGURATION_H
 
 #include "boards.h"
+#include <U8glib.h>
+
 
 // BASIC SETTINGS: select your board type, temperature sensor type, axis scaling, and endstop configuration
 
