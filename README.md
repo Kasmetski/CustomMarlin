@@ -17,3 +17,5 @@ This is reworked Marling 3D Printer firmware for a custom design 3D Printer.
 ## Credits
 
 ##### Marlin Firmware
+
+#Soon - Full info about the project
